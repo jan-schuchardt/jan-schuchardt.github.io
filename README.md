@@ -1,1 +1,0 @@
-# jan-schuchardt.github.io
