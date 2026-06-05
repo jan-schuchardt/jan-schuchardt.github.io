@@ -35,3 +35,5 @@ I am currently based in London. In my applied work, I currently focus on generat
 
 **Education.** In 2026, I completed my Ph.D. in computer science at TU Munich's <a href='https://www.cs.cit.tum.de/daml'>Data Analaytics and Machine Learning Group</a>. If you're interested in how probabilistic certificates of adversarial robustness ("randomized smoothing") relate to probabilistic certificates of privacy ("differential privacy"), and how to specialize them to graph neural networks, you can check out my dissertation <a href='https://mediatum.ub.tum.de/node?id=1797198'>here</a>.
 
+**Service.** I regularly serve as a reviewer for TMLR, ICML (2025 Outstanding Reviewer, 2026 Gold Reviewer), NeurIPS, and ICLR (2026 Top 200 Reviewer). I also reviewed for the 2025 Privacy-Preserving Machine Learning Workshop at EurIPS 2025 
+and contributed to the ICLR 2026 Blogpost track as an area chair.
