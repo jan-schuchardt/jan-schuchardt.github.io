@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-08'
 papers:
   O-cixlwAAAAJ:0EnyYjriUFMC:
     citations: 3
@@ -18,7 +18,7 @@ papers:
     title: Fast Proxies for LLM Robustness Evaluation
     year: '2025'
   O-cixlwAAAAJ:9yKSN-GCB0IC:
-    citations: 45
+    citations: 46
     title: 'Collective Robustness Certificates: Exploiting Interdependence in Graph Neural Networks'
     year: '2021'
   O-cixlwAAAAJ:KlAtU1dfN6UC:
@@ -37,6 +37,10 @@ papers:
     citations: 31
     title: 'Randomized Message-Interception Smoothing: Gray-Box Certificates for Graph Neural Networks'
     year: '2022'
+  O-cixlwAAAAJ:ULOm3_A8WrAC:
+    citations: 0
+    title: Robustness Certification of Graph Neural Networks
+    year: '2026'
   O-cixlwAAAAJ:W7OEmFMy1HYC:
     citations: 11
     title: Training Differentially Private Graph Neural Networks with Random Walk Sampling
