@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-15'
 papers:
   O-cixlwAAAAJ:0EnyYjriUFMC:
     citations: 3
@@ -22,8 +22,8 @@ papers:
     title: 'Collective Robustness Certificates: Exploiting Interdependence in Graph Neural Networks'
     year: '2021'
   O-cixlwAAAAJ:KlAtU1dfN6UC:
-    citations: 0
-    title: Population Risk Bounds for Kolmogorov-Arnold Networks Trained by DP-SGD with Correlated Noise
+    citations: 2
+    title: Population risk bounds for kolmogorov-arnold networks trained by dp-sgd with correlated noise
     year: '2026'
   O-cixlwAAAAJ:LkGwnXOMwfcC:
     citations: 22
@@ -46,7 +46,7 @@ papers:
     title: Training Differentially Private Graph Neural Networks with Random Walk Sampling
     year: '2022'
   O-cixlwAAAAJ:WF5omc3nYNoC:
-    citations: 72
+    citations: 73
     title: Generalization of Neural Combinatorial Solvers Through the Lens of Adversarial Robustness
     year: '2022'
   O-cixlwAAAAJ:Zph67rFs4hoC:
