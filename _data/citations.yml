@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-17'
 papers:
   O-cixlwAAAAJ:0EnyYjriUFMC:
     citations: 3
@@ -26,7 +26,7 @@ papers:
     title: Population risk bounds for kolmogorov-arnold networks trained by dp-sgd with correlated noise
     year: '2026'
   O-cixlwAAAAJ:LkGwnXOMwfcC:
-    citations: 22
+    citations: 23
     title: Hierarchical Randomized Smoothing
     year: '2023'
   O-cixlwAAAAJ:MXK_kJrjxJIC:
@@ -42,15 +42,15 @@ papers:
     title: Robustness Certification of Graph Neural Networks
     year: '2026'
   O-cixlwAAAAJ:W7OEmFMy1HYC:
-    citations: 12
+    citations: 13
     title: Training Differentially Private Graph Neural Networks with Random Walk Sampling
     year: '2022'
   O-cixlwAAAAJ:WF5omc3nYNoC:
-    citations: 73
+    citations: 74
     title: Generalization of Neural Combinatorial Solvers Through the Lens of Adversarial Robustness
     year: '2022'
   O-cixlwAAAAJ:Zph67rFs4hoC:
-    citations: 0
+    citations: 1
     title: Provable Robustness against Backdoor Attacks via the Primal-Dual Perspective on Differential Privacy
     year: '2026'
   O-cixlwAAAAJ:eQOLeE2rZwMC:
@@ -58,7 +58,7 @@ papers:
     title: Invariance-Aware Randomized Smoothing Certificates
     year: '2022'
   O-cixlwAAAAJ:hqOjcs7Dif8C:
-    citations: 7
+    citations: 8
     title: Unified Mechanism-Specific Amplification by Subsampling and Group Privacy Amplification
     year: '2024'
   O-cixlwAAAAJ:kNdYIx-mwKoC:
