@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-08-19'
 papers:
   O-cixlwAAAAJ:0EnyYjriUFMC:
-    citations: 3
+    citations: 5
     title: Privacy Amplification by Structured Subsampling for Deep Differentially Private Time Series Forecasting
     year: '2025'
   O-cixlwAAAAJ:2osOgNQ5qMEC:
@@ -26,12 +26,12 @@ papers:
     title: Population risk bounds for kolmogorov-arnold networks trained by dp-sgd with correlated noise
     year: '2026'
   O-cixlwAAAAJ:LkGwnXOMwfcC:
-    citations: 23
+    citations: 28
     title: Hierarchical Randomized Smoothing
     year: '2023'
   O-cixlwAAAAJ:MXK_kJrjxJIC:
-    citations: 1
-    title: Sampling-Free Privacy Accounting for Matrix Mechanisms under Random Allocation
+    citations: 2
+    title: Sampling-free privacy accounting for matrix mechanisms under random allocation
     year: '2026'
   O-cixlwAAAAJ:Tyk-4Ss8FVUC:
     citations: 31
@@ -46,9 +46,13 @@ papers:
     title: Training Differentially Private Graph Neural Networks with Random Walk Sampling
     year: '2022'
   O-cixlwAAAAJ:WF5omc3nYNoC:
-    citations: 74
+    citations: 79
     title: Generalization of Neural Combinatorial Solvers Through the Lens of Adversarial Robustness
     year: '2022'
+  O-cixlwAAAAJ:YOwf2qJgpHMC:
+    citations: 2
+    title: Hierarchical Randomized Smoothing
+    year: '2023'
   O-cixlwAAAAJ:Zph67rFs4hoC:
     citations: 1
     title: Provable Robustness against Backdoor Attacks via the Primal-Dual Perspective on Differential Privacy
@@ -66,7 +70,7 @@ papers:
     title: Probabilistic Gray-Box Robustness Certification for Graph Neural Networks
     year: '2026'
   O-cixlwAAAAJ:qjMakFHDy7sC:
-    citations: 13
+    citations: 14
     title: Localized Randomized Smoothing for Collective Robustness Certification
     year: '2023'
   O-cixlwAAAAJ:roLk4NBRz8UC:
