@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-28'
 papers:
   O-cixlwAAAAJ:0EnyYjriUFMC:
     citations: 5
@@ -46,7 +46,7 @@ papers:
     title: Training Differentially Private Graph Neural Networks with Random Walk Sampling
     year: '2022'
   O-cixlwAAAAJ:WF5omc3nYNoC:
-    citations: 79
+    citations: 80
     title: Generalization of Neural Combinatorial Solvers Through the Lens of Adversarial Robustness
     year: '2022'
   O-cixlwAAAAJ:YOwf2qJgpHMC:
