@@ -29,7 +29,7 @@ social: True # includes social icons at the bottom of the page
 **Research interests.** My research is focused on providing <u>provable guarantees</u> for the trustworthiness of machine learning methods at both training and inference time.
 In particular, I am interested in methods that account for most real-world data not being generic collections of numbers, but <u>structured data</u>: Grids (images), sequences (language / time series), or graphs (social networks / databases). My main focus is on <u>pobabilistic methods</u>, which introduce randomness into the training algorithm or model's prediction to provide statistical guarantees for their robustness to input modifications. Depending on how we randomize and which modifications we consider, these statistical guarantees ensure <u>privacy, safety, fairness</u>, and various other nice properties for machine learning systems.
 
-**Current position.** I work as a research scientist in the <a href='https://www.morganstanley.com/about-us/technology/machine-learning-research-team'>Morgan Stanley Machine Learning Research Department</a>,
+**Current position.** I am a research scientist in the <a href='https://www.morganstanley.com/about-us/technology/machine-learning-research-team'>Morgan Stanley Machine Learning Research Department</a>,
 where I continue to work on trustworthy ML.
 I am currently based in London. In other applied projects, I currently focus on generative models for irregular time series and offline reinforcement learning.
 
