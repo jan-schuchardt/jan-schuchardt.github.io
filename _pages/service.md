@@ -16,7 +16,8 @@ nav_order: 3
 * AAAI — AI Alignment Track area chair ("Senior Program Committee") for 2027.
 
 ### Journals
-* TMLR: Reviewer for 2025 and 2026.
+* TMLR — Reviewer.
+* IEEE Transactions on Information Forensics and Security — Reviewer.
 
 ### Workshops
 * PPML @ EurIPS 2025 — Reviewer.
